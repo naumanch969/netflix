@@ -1,0 +1,6 @@
+export { default as background } from './bg.jpeg'
+export { default as logo } from './logo.png'
+export { default as thumbnail } from './image.jpg'
+export { default as login } from './login.jpeg'
+export { default as register } from './register.jpeg'
+export { default as video } from './video.mp4'
